@@ -11,7 +11,7 @@ It is a FAQBOT for KREO. which is for their custumer care which can answer 80% Q
 
 Complete code of project is in the folder and database is hosted in Supabase 
 
-Detailed video explaination of the project :- [https://drive.google.com/file/d/1u9WwOtOQojma3fFMCIlssYV3gVGTHWCV/view?usp=sharing]
+Detailed video explaination of the project :- https://drive.google.com/file/d/1BnEDrs97DLTgNbaKfkNn6iZ0stQVGqdq/view?usp=drive_link
 
 Final FIle :- https://drive.google.com/file/d/179HehK_XSnCfhDAzZK36L1b25ilvu-Bt/view?usp=sharing
 
